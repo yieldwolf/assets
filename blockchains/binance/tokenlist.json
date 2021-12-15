@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: BNB",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2021-11-25T01:26:02.829Z",
+    "timestamp": "2021-12-09T01:27:25.353Z",
     "tokens": [
         {
             "asset": "c714",
@@ -54,7 +54,7 @@
                 },
                 {
                     "base": "c714_tAXPR-777",
-                    "lotSize": "1000000000",
+                    "lotSize": "10000000000",
                     "tickSize": "1"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "base": "c714_tBLINK-9C6",
-                    "lotSize": "100000000000",
+                    "lotSize": "1000000000000",
                     "tickSize": "1"
                 },
                 {
@@ -454,12 +454,12 @@
                 },
                 {
                     "base": "c714_tSWIPE.B-DC0",
-                    "lotSize": "1000000000000",
+                    "lotSize": "10000000000000",
                     "tickSize": "1"
                 },
                 {
                     "base": "c714_tTM2-0C4",
-                    "lotSize": "100000000000",
+                    "lotSize": "1000000000000",
                     "tickSize": "1"
                 },
                 {
@@ -676,7 +676,7 @@
                 {
                     "base": "c714_tRUNE-B1A",
                     "lotSize": "10000000",
-                    "tickSize": "10000"
+                    "tickSize": "1000"
                 },
                 {
                     "base": "c714_tSHR-DB6",
@@ -696,7 +696,7 @@
                 {
                     "base": "c714_tXRP-BF2",
                     "lotSize": "100000000",
-                    "tickSize": "1000"
+                    "tickSize": "100"
                 },
                 {
                     "base": "c714_tXTZ-F7A",
@@ -2201,7 +2201,7 @@
         }
     ],
     "version": {
-        "major": 235,
+        "major": 243,
         "minor": 0,
         "patch": 0
     }
